@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DEVC>
+    <CTEXT>Basis Admin Tools — Logon Pad Landscape Manager</CTEXT>
+    <PARENTCL>Z_BASIS_TOOLS</PARENTCL>
+    <DLVUNIT>HOME</DLVUNIT>
+    <COMPONENT>BC-MID-ICF</COMPONENT>
+    <PACKKIND>development</PACKKIND>
+   </DEVC>
+  </asx:values>
+ </asx:abap>
+</abapGit>

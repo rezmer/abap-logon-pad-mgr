@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Node / Fiori build
+node_modules/
+fiori/webapp/dist/
+fiori/webapp/.ui5cache/
+fiori/webapp/.fiori/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local build artefacts
+*.zip
+
+# Logs
+*.log
