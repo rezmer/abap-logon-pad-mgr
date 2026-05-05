@@ -49,7 +49,7 @@ Verwaltet eine zentrale `SAPUILandscape.xml` direkt im SAP-System und liefert si
                                     └──────────────────────┘
 ```
 
-Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+Details: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) · DDIC-Spezifikation: [docs/DDIC.md](docs/DDIC.md).
 
 ---
 
